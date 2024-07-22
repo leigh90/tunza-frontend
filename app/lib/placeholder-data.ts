@@ -144,4 +144,57 @@ const revenue = [
   { month: 'Dec', revenue: 4800 },
 ];
 
+
+const expenses = [
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  {
+    id: 1,
+    amount: 652,
+    payee: "java",
+    item: "samosa", 
+    notes: "Work from Java",
+    category_name: "Food",
+  },
+  
+]
+
 export { users, customers, invoices, revenue };
